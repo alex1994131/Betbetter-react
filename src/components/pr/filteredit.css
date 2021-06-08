@@ -1,0 +1,7 @@
+.filtersFormPage #new_user_multi_filter .checkbox input[type=checkbox] {
+    display: block !important;
+}
+
+#filteredit_button input[type=submit] , a {
+    margin-right: 10px;
+}
